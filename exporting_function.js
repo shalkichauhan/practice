@@ -1,4 +1,7 @@
 const subtraction = function sub() {
-    return 7 - 3
+    console.log("my main branch")
 }
 module.exports = subtraction
+subtraction()
+
+console.log(" my number is 3")
